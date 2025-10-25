@@ -17,6 +17,7 @@ const Index = () => {
       <main>
         <Hero /> 
        <ReviewsSection />
+       <FAQ/>
         <HowItWorks/>
         <ChallengeObjectives />
         <GlobalSports />
